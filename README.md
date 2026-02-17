@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **varunb1090@gmail.com** For Collaboration/Project or Anyth
 - 🤔 **I’m looking for help with:** Your project here
 - 📫 **How to reach me:** varunb1090@gmail.com
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santhosh_dubari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/santhosh-devappa-dubari-24aug2004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DubariSant20174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santhoshsd364@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/santhosh_dubari](https://www.instagram.com/varun.__.8045?igsh=aGVsOWY1cjZ5Zm93)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/santhosh-devappa-dubari-24aug2004](https://www.linkedin.com/in/varun-b-0680172a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DubariSant20174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunb1090@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
