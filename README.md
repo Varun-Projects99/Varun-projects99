@@ -8,7 +8,17 @@ Email Me 👉 ✉️ **varunb1090@gmail.com** For Collaboration/Project or Anyth
 - 🤔 **I’m looking for help with:** Your project here
 - 📫 **How to reach me:** varunb1090@gmail.com
 ## 🌐 Socials:
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/varun.__.8045?igsh=aGVsOWY1cjZ5Zm93](https://www.instagram.com/varun.__.8045?igsh=aGVsOWY1cjZ5Zm93)) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/varun-b-0680172a6/](https://www.linkedin.com/in/varun-b-0680172a6?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DubariSant20174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunb1090@gmail.com) 
+<p align="left">
+  <a href="https://www.instagram.com/varun.__._8045?igsh=aGVsOWY1cjZ5Zm93">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/varun-b-0680172a6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:varunb1090@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
